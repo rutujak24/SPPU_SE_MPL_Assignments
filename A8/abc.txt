@@ -1,0 +1,2 @@
+Hello everyone.
+This assignment deals with DOS commands.
